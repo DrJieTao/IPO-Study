@@ -1,0 +1,102 @@
+Term,Acronym,Definition
+Accounting consistency,,"Balance sheets balance, and income statements are consistent with retained earnings on the balance sheet."
+Accruals ,,"Amounts owed for salary, taxes, and other items, but not yet paid."
+Accrual basis accounting ,,"An accounting convention in which revenue and most costs are recognized when the sale of the good or service occurs, rather than when the cash is received or when expenses are paid. Accrual basis accounting relies on the matching and recognition principles."
+Additional funds needed ,AFN,The extra amount of financing that is required in a given year.  Usually is positive if the firm is growing
+Articulate ,,"Retained earnings on the balance sheet are equal to the previous year_s retained earnings plus the current year_s net income, less any dividends paid.  "
+Asset turnover,,Sometimes based on average assets: [(Assett + assett-1)/2 /Salest. This ratio is often used as an indicator of efficiency of asset utilization.
+Basis point,,"For example, a 10 basis point increase from an interest rate of 4 percent gives an interest rate of 4.10 percent."
+Beta ,,"Beta measures a stock_s market risk, which is the risk relevant to an investor.  Market risk is the amount of risk that a stock contributes to a well-diversified portfolio.  "
+Bond spread ,,The difference in yield between a corporate bond of a certain credit rating and a comparable maturity Treasury security.
+Book value,,"The value of an asset, a liability, or a company that is based solely upon the values reported in the company_s financial statements."
+Capital asset pricing model ,CAPM,A model of investor required returns.  The required return to equity is the risk free rate plus beta multiplied by the market risk premium: rs = rRF + Beta (Market risk premium)
+Capital requirements,,The amount of capital required to support a dollar of sales.
+Cash flow,,Cash generated from a business activity.
+Circularity ,,"Interdependence among formulas in a spreadsheet in which changes in one variable cause changes in a second variable, which in turn brings about a further change in the first variable."
+Common stock,,Item on the balance sheet that shows how much stockholders have invested in the company by purchasing stock from the company.
+Comprehensive financial statements ,,A set of extremely detailed financial statements that includes practically all the entries that might be encountered in actual statements.
+Condensed financial statements ,,A set of focused financial statements that includes only the level of detail that is essential to a fundamental valuation of a firm. Individual items in the comprehensive statements are aggregated to produce the condensed statements.
+Constant growth formula ,,A formula for the present value of a constantly growing stream of free cash flows.
+Constant growth rate dividend policy ,,Dividends are assumed to grow at a constant rate.
+Corporate value ,,The sum of the value of a firm_s operations and the value of its non-operating assets.  This is the total value of the firm.
+Cost of capital ,,"The return the company must obtain on a certain source of capital, for example debt or equity, to satisfy those investors."
+Cost of equity,,The return stockholders require on their investment in the stock.
+Cost of goods sold ,COGS,Expenses associated with production activities.
+Current assets,,"Assets expected to be converted to cash within a year.  Current assets include inventory, accounts receivable, cash, and short-term investments."
+Current liabilities,,"Liabilities expected to be paid off within a year.  Current liabilities include notes payable, the current portion of long-term debt, and accruals."
+Current ratio,,Current assets/Current liabilities.
+Debtholder ,,"A person or financial institution who owns a bond issued by the company, or a bank that is owed money by the company."
+Depreciation ,,The amount of an asset_s purchase price that is taken as an expense during each reporting period over the life of the asset.
+Dividends ,,Money paid out to shareholders.
+Earnings before interest and taxes ,EBIT,Net income less COGS and SGA.
+Earnings per share,,Net income/shares outstanding.
+EBITD ,EBITD ,"Earnings before interest, taxes and depreciation."
+Economic profit,,A generic name for economic value added (EVA„)
+Economic value added ,EVA„,The amount of economic value added to a company during the year.  Calculated as:  EVA = NOPAT _ Operating capital (WACC).  Sometimes defined as: EVA = NOPAT _ (Operating capital at the beginning of the year) (WACC).
+Excess cash ,,Cash in excess of the amount needed to support operations.
+External financing,,Debt or equity raised from newly issued securities.
+Extraordinary items,,"Items on the income statement that are non-recurring, such as reorganization charges."
+Fixed assets ,,Real assets with lives longer than a year.
+Fixed payout ratio ,,A dividend policy in which dividends are a constant proportion of net income.
+Free cash flow,FCF,"NOPAT minus required investment in operating capital.  FCF is the total amount of cash available for distribution to all the firm_s investors_stockholders, bondholders, and preferred stockholders."
+Fundamental analysis ,,Valuing stocks based on their expected future cash flows.
+Fundamental value,,The value that results from discounting expected future cash flows at an appropriate cost of capital.  Analysts are not likely to agree on this value; it is an intrinsic value.
+Gross margin ,,Gross profit/Sales.
+Gross profit ,,Sales less cost of goods sold.
+Interest coverage ratio,,Operating profit/Net interest expense.
+Intrinsic value,,An estimate of value that is determined according to the particular views and beliefs of an individual investor or analyst.  See fundamental value.
+Inventory turnover,,Inventory/Sales (sometimes defined as the average inventory during the year divided by the year_s sales).
+Market risk premium,,The return over and above the risk free rate that investors require for bearing market risk:  RPM = expected return on market _ risk free rate.
+Market value,,The price at which the asset may be purchased or sold in the financial markets.
+Market value added,MVA,"Total market value of firm (i.e., market values of debt plus equity) minus total capital contributed to the firm.  The total contributed capital is the book value of debt plus the book value of common stock and retained earnings, as shown on the financial statements."
+Matching principle,,"The principle that irrespective of when cash payments for costs of producing goods are actually made, the costs cannot be incorporated into income until goods that were produced are sold. "
+Net operating profit after taxes,NOPAT,"Operating profit less the taxes due on operating profit.  In the simplest firm, this is EBIT (1-T) where T is the tax rate."
+Net profit margin ,,Net income/Sales.
+Net working capital,,Current assets minus current liabilities.
+Non-linear model ,,A model for projecting a balance sheet or income statement item in such a way that it is not a linear function of sales.
+Nonoperating asset,,"An asset that is not used in operations, such as short-term investments, excess cash, or land purchased for speculative purposes."
+Operating capital ,,"The amount of money tied up in operating assets, less any operating liabilities."
+Operating current assets ,,Short-term assets used in operations.  Doesn_t include excess cash or short-term investments. 
+Operating current liabilities,,Short-term liabilities used in operations.  Doesn_t include notes payable.
+Operating long-term capital,,"Long-term capital used in operations, such as buildings, equipment, and land."
+Operating margin,,EBIT/Sales
+Operating profit,,Profit from operations.  Usually EBIT.
+Operating profitability,,NOPAT/Sales.  It is the contribution that operations make to the firm_s overall profitability.
+Operating working capital ,,Operating current assets less operating current liabilities.
+Operations ,,The firm_s activities that are associated with producing and selling goods and services. 
+Payout ratio,,Dividends/Net income.
+Plant property and equipment,PP&E,Long-term assets owned by the company and used in operations or for administration.
+Present value,,The value today of an amount of cash to be received in the future.
+Pre-tax margin,,Profit before taxes/Sales.
+Price to book ratio ,,Market value of a company_s stock (per share) divided by the book value of equity (per share).
+Prime rate,,The rate that banks offer customers with high credit ratings.
+Principal ,,The initial amount borrowed in a loan.  Also called the face value.
+Pro forma financial statements,,Projected financial statements.
+Quick ratio,,(Current assets _ inventory)/Current liabilities.
+Rating agency,,"An organization, such as Standard and Poor_s, Fitch, and Moody_s, that analyzes the creditworthiness of companies."
+Receivables turnover ,,Receivables/Sales.
+Recognition principle,,"A rule employed to determine when to report revenue and costs. Most companies recognize revenue and most costs when the good or service is shipped or delivered, rather than when the cash from sale is received or when production expenses are paid."
+Residual dividend,,Dividends are set so that assets are equal to liabilities plus owners equity.
+Retained earnings,,"Item on the balance sheet that shows how much stockholders have contributed to the company as the company reinvests (i.e., retains) earnings rather than pays earnings out dividends."
+Return on assets,ROA,Net income/Assets
+Return on equity,,Net income/Shareholders_ equity.
+Return on invested capital ,ROIC,NOPAT/Beginning capital.  A measure of how well the company is doing financially with the assets it uses. Sometimes calculated as NOPAT/Capital if used for performance measures.
+Reverse engineer ,,Use of a valuation model to deduce what combinations of assumptions about the firm_s operating performance are consistent with the current market price of the firm_s stock.
+Risk averse,,"Investor attitude towards risk.  Investors prefer less risk to more risk, if return is held constant."
+Risk free rate,,The rate of return on long-term Treasury securities.
+"Selling, general, and administrative expenses ",SGA,"Expenses associated with corporate overhead, advertising, and administration_mostly expenses not directly associated with production."
+Sensitivity analysis,,Using a valuation model to see how variation of the assumptions about operating or non-operating performance affects the value of the firm.
+Shareholder ,,Someone who owns stock in a company.  The shareholders are the owners of a company.
+Short-run projection period,,The period during which projections of operating performance are based on specific plans and circumstances of the firm.
+Spread ,,"The difference in yields between two assets.  For example, a bond spread is the difference between the yield on a particular bond and the yield on a Treasury security of the same maturity."
+Steady-state period,,"The period of a firm_s existence during which the forces of competition have eroded the ability of the firm to generate extraordinary returns to its investors.  When this period is reached, the growth and profitability performance of the firm will merge with that of other firms in its industry, and ultimately with the performance of the economy at large."
+Stock repurchases,,A firm buys back its own stock in order to distribute cash to its shareholders.
+Total market value,,Market value of debt plus the market value of equity.
+Value based management ,,Managing a company to maximize its value for the shareholders.
+Value driver,,"Something that is an important factor in the determination a company_s profitability and value.  For example, sales growth or gross margin."
+Value of equity,,"The value of the common stock, sometimes defined as the projected value of the common stock as predicted by the valuation model (intrinsic value), and sometimes, as the market value of the common stock."
+Value of nonoperating assets ,,The amount nonoperating assets are worth in the market.
+Value of operations ,VOp,The present value of the free cash flows when discounted at the weighted average cost of capital. 
+Weighted average cost of capital ,WACC,"The after-tax costs of capital of all of the various sources of financing, weighted by their relative market values:  if there is only debt and equity, then this is WACC = wdrd(1-T) + wsððrs "
+Working capital,,Current assets.
+Yield ,,The rate of return that an investor would realize on a bond held to maturity.
